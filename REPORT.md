@@ -1,9 +1,8 @@
 # Assignment 3 Technical Report: Kubernetes Orchestration & Full DevOps Pipeline
 
-**Course:** DevOps and Cloud Computing Foundation  
-**Semester:** Spring 2026  
+**Course:** DevOps and Cloud Computing
 **Student Name:** Saim Ali  
-**Roll Number:** [Insert Roll Number]  
+**Roll Number:** F2022-002  
 
 ---
 
