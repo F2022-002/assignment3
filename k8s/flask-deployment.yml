@@ -18,6 +18,7 @@ spec:
       containers:
         - name: flask-api
           image: saimdevops/flask-api:latest
+          imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 5000
           env:
